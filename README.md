@@ -41,7 +41,7 @@ The dataset is originally part of the **World Happiness Report 2019** and can be
 ## 🚀 How to Use
 
 1. Clone or download this repository.
-2. Open the `.ipynb` file in Jupyter Notebook, VS Code, or Google Colab.
+2. Open the `World_Happiness_Data_Visualization_2019.ipynb` file in Jupyter Notebook, VS Code, or Google Colab.
 3. Run the cells to view data visualizations and insights.
 
 ---
