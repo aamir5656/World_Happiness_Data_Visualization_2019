@@ -58,7 +58,9 @@ This project is shared under the MIT License.
 
 ---
 
-> ✨ If you find this helpful, consider starring the repo or using it for your data visualization practice.
+## 📊 Dataset Sources
 
-Important Note : 
-                This dataset was sourced from Kaggle (linked above) and is used here strictly for educational/non-commercial analysis purposes.
+- **Source**: World Happiness Report on Kaggle  
+- **Link**: [https://www.kaggle.com/datasets/unsdsn/world-happiness](https://www.kaggle.com/datasets/unsdsn/world-happiness)  
+- **Usage**: This dataset is used for educational and analytical purposes only.  
+- **Note**: All rights belong to the original publisher (UNSDSN)..
